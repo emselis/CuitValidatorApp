@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuitValidatorApp", "CuitValidatorApp.csproj", "{64E00EA3-A749-4E22-8D01-BDCE6C41B068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E00EA3-A749-4E22-8D01-BDCE6C41B068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E00EA3-A749-4E22-8D01-BDCE6C41B068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E00EA3-A749-4E22-8D01-BDCE6C41B068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E00EA3-A749-4E22-8D01-BDCE6C41B068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DA68E7-B694-431E-872C-7A6D4EDE4C1F}
+	EndGlobalSection
+EndGlobal

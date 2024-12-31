@@ -1,0 +1,30 @@
+# Project settings
+/**/.project
+/**/.classpath
+.settings/
+
+
+# WindowsForm & C#
+/**/bin/
+/**/obj/
+
+
+### VS Code ###
+/**/.vscode/
+
+### Visual Studio ###
+/**/.vs/
+
+
+# Logs
+/**/*.log
+/**/logs/
+
+
+# Other
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*.user
